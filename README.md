@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Shubham Saxena
 
 [![GitHub followers](https://img.shields.io/github/followers/shubhlpu16?label=Follow&style=social)](https://github.com/shubhlpu16)
-[![Linkedin: your_linkedin](https://img.shields.io/badge/-your_linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/your_linkedin)](https://linkedin.com/in/shubha,saxena0102)
+[![Linkedin: your_linkedin](https://img.shields.io/badge/-your_linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=linkedin.com/in/your_linkedin)](https://linkedin.com/in/shubhamsaxena0102)
 
 ## About Me
 
