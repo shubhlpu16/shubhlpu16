@@ -42,6 +42,7 @@ I'm a passionate Software Developer with expertise in Frontend. I am deeply pass
 
 ## Featured Projects
 
+- [Shoowflix](https://github.com/shubhlpu16/shoowflix)
 - [Next Boilerplate](https://github.com/shubhlpu16/next-boilerplate)
 - [React BoilerPlate](https://github.com/shubhlpu16/react-boilerplate)
 - [NewsByte](https://github.com/shubhlpu16/news-byte)
