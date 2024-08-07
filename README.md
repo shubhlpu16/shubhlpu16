@@ -8,8 +8,7 @@
 I'm a passionate Software Developer with expertise in Frontend. I am deeply passionate about leveraging cutting-edge technologies to create impactful solutions. I thrive on developing user-centric applications that solve real-world problems.
 
 - 🐣 Born in 1998 (too lazy to update my age every time lol)
-- 🔭 I’m currently working on Home Sharing Social Network.
-- 🌱 I’m currently learning FullStack from EICT IIT G.
+- 🔭 I’m currently working in Ticketmaster.
 - 💬 Ask me about Frontend, techs, games and Marvel.
 - 📫 How to reach me: <shubh.lpu16@gmail.com>.
 - 😄 Pronouns: He/Him.
