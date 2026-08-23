@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shubham Saxena</h1>
-<h3 align="center">Software Engineer | Building Toward Google-Scale Engineering</h3>
+<h3 align="center">Software Engineer | AI-Augmented Engineering & Scalable Systems</h3>
+
+<p align="center">
+  <em>6+ years building high-performance, scalable web applications — and a software engineer who knows how to work with AI, building Claude Code-driven workflows across the spec-driven SDLC. Specialized in performance-heavy frontend systems, canvas rendering architectures, and backend ownership. Reduced onboarding time by 50%, improved load performance by 40%, and optimized real-time rendering systems at scale.</em>
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/shubham-saxena-dev">
@@ -19,12 +23,15 @@
 
 I'm a Software Engineer at **Ticketmaster**, and I build like scale is inevitable — because at some point, it has to be. Over 6+ years I've shipped high-performance, canvas-heavy systems in production: cutting onboarding time by ~50%, improving load performance by ~40%, and pushing real-time rendering pipelines to handle complexity most teams avoid.
 
+I'm also a software engineer who knows how to work *with* AI, not just around it. I've built Claude Code-driven workflows that carry a ticket from Jira through every stage of the SDLC under spec-driven development — spec generation, implementation, review. I treat AI tooling as core engineering infrastructure, and I'm deliberate about where it removes friction versus where human judgment has to lead.
+
 I care about the same problems the best infrastructure teams in the world care about — systems that stay fast, correct, and simple as they grow by orders of magnitude. That's the bar I hold my own work to, and it's the reason I'm working toward earning a seat on an engineering team at **Google**.
 
 - 🔭 Currently architecting the **Virtual Venue Layout Tool (VLT)**, a canvas-based system for high-throughput venue onboarding
+- 🤖 Built Claude Code workflows spanning Jira → spec → implementation → review, under spec-driven development
 - 🎯 Long-term goal: build infrastructure-grade software at Google — where scale, correctness, and craft aren't optional
 - 🧠 Sharpening data structures, algorithms, and distributed-systems fundamentals alongside day-to-day product work
-- 💬 Ask me about frontend performance, canvas rendering, system design, or how to make something fast *and* correct
+- 💬 Ask me about frontend performance, canvas rendering, system design, AI-augmented engineering, or how to make something fast *and* correct
 - 📫 Reach me at **shubh.lpu16@gmail.com**
 - ⚡ Fun fact: adventure-loving tech enthusiast and gamer, still debugging life one edge case at a time
 
@@ -40,6 +47,13 @@ I care about the same problems the best infrastructure teams in the world care a
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
 <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white" />
+</p>
+
+**AI-Augmented Engineering**
+<p>
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Spec--Driven_Development-6E56CF?style=flat-square&logo=readthedocs&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />
 </p>
 
 **Backend & Data**
