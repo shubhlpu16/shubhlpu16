@@ -78,12 +78,9 @@ I care about the same problems the best infrastructure teams in the world care a
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shubhlpu16&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_rank=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhlpu16&layout=compact&hide_title=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhlpu16&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://img.shields.io/github/stars/shubhlpu16?style=flat-square&label=Total%20Stars&logo=github" alt="Total Stars"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/shubhlpu16&label=Public%20Repos&query=public_repos&style=flat-square&logo=github" alt="Public Repos"/>
+  <img src="https://img.shields.io/github/followers/shubhlpu16?style=flat-square&label=Followers&logo=github" alt="Followers"/>
 </p>
 
 ---
